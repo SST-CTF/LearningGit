@@ -1,3 +1,28 @@
 # LearningGit
 We are learning git!
-Git is the best
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This Won't Cause Conflicts
