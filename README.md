@@ -1,2 +1,3 @@
 # LearningGit
-We are learning git!
+Dane kinda learned git.
+How nice.
