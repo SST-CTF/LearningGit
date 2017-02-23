@@ -1,3 +1,4 @@
 # LearningGit
-We are learning git!
-Git is the best
+Dane kinda learned git.
+How nice.
+
